@@ -1,0 +1,2 @@
+# catGPT
+Java school project
