@@ -1,2 +1,2 @@
-# catGPT
+# CatGPT
 Java school project
