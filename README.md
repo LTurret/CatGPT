@@ -12,3 +12,7 @@ No additional build conditions are required; simply compile and run it.
 javac CatGPT.java
 java CatGPT
 ```
+
+## License
+
+License under [MIT](./LICENSE)
