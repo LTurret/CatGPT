@@ -9,8 +9,7 @@ Java based program simulating a cat LLM named "CatGPT".
 No additional build conditions are required; simply compile and run it.
 
 ```shell
-javac CatGPT.java
-java CatGPT
+javac CatGPT.java && java CatGPT
 ```
 
 ## License
